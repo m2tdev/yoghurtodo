@@ -1,2 +1,5 @@
 # react-todo
-A todo app made with React
+
+A todo app built with React
+
+`npm start` to start the project
