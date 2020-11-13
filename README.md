@@ -4,7 +4,7 @@ A todo app built with [React](https://reactjs.org/) that stores your todos in lo
 
 Use it for your simple todo needings!
 
-[Live demo available](https://yoghurtodo.netlify.app/)
+[Live app available](https://yoghurtodo.netlify.app/)
 
 ## Installation
 
