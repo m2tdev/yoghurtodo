@@ -53,7 +53,9 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>Your todo list</h1>
+        <h1>
+          <span>yoghurt</span>odo
+        </h1>
       </header>
       <Form
         todos={todos}

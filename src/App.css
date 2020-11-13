@@ -13,6 +13,10 @@ header {
   font-size: 2rem;
 }
 
+header h1 span {
+  color: #162023;
+}
+
 header,
 form {
   min-height: 20vh;
