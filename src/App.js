@@ -19,6 +19,7 @@ function App() {
   useEffect(() => {
     filterHandler();
     saveLocalTodos();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [todos, status]);
 
   //Functions
@@ -52,7 +53,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>Mert's todo list</h1>
+        <h1>Your todo list</h1>
       </header>
       <Form
         todos={todos}
